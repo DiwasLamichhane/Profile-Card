@@ -98,3 +98,23 @@ body{
     display: flex;
     align-items: center;
 }
+.buttons .btn{
+    margin: 6px 10px;
+    border: none;
+    background-color: rgb(69, 45, 74);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 24px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.buttons .btn:hover{
+    background-color: rgb(86, 58, 91);
+}
+#profile-card .copyright{
+    color: rgb(69, 45, 74);
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 20px;
+}
